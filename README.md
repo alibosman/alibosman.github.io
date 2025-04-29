@@ -4,7 +4,7 @@
         table, th, td {
   border: 1px solid;
 }
-  list-style-type: none;
+
     </style>
 <head>
 <title>GitHub Page</title>
