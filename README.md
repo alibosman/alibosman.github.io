@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
- <style>
-        table, th, td {
-  border: 1px solid;
-}
 
-    </style>
 <head>
 <title>GitHub Page</title>
 </head>
