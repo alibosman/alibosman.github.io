@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html>
- <style>
-        table, th, td {
-  border: 1px solid;
-}
-  list-style-type: none;
-    </style>
-<head>
-  <link rel="stylesheet" href="style.css">
-<title>GitHub Page</title>
-</head>
+
 
 <body>
      <div class="topnav">
